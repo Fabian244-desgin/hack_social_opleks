@@ -9,3 +9,9 @@ https://github.com/Fabian244-desgin/git_h_3.git
 https://github.com/Fabian244-desgin/git_h_4.git
 ## H5:ENVIAR UNA RAMA REMOTA
 https://github.com/Fabian244-desgin/git_h_5.git
+## H6: CLONAR UN REPOSITORIO REMOTO)
+https://github.com/Fabian244-desgin/git_h_6.git
+## H7:ELIMINAR UN ARCHIVO EN EL REPOSITORIO REMOTO 
+https://github.com/Fabian244-desgin/git_h_7.git
+## H8:VOLVER A UN COMMIT ANTERIOR 
+https://github.com/Fabian244-desgin/git_h_8.git
